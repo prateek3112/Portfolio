@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+      From Back-end To Front-end.
     </SectionText>
     <List>
       <ListItem>
@@ -19,8 +19,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiece with <br />
-            React.js
+            React.js and Angular
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -31,8 +30,18 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Node and Databases
+            Node, Express and .Net Core
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <picture>
+          <DiReact size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Databases</ListTitle>
+          <ListParagraph>
+            SQL Server and MongoDb
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -43,8 +52,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            tools like Figma
+            Figma
           </ListParagraph>
         </ListContainer>
       </ListItem>
