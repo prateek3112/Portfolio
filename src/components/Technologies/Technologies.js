@@ -18,7 +18,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            React.js and Angular
+            Reactjs, Nextjs and Angular
           </ListParagraph>
         </ListContainer>
       </ListItem>
