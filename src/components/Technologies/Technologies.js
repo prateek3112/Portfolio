@@ -51,7 +51,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
-            Figma
+            Figma, Tailwind CSS, Material UI
           </ListParagraph>
         </ListContainer>
       </ListItem>
